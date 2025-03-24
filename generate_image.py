@@ -10,8 +10,8 @@ ppm_header = f'P6 {width} {height} {maxval}\n'
 image = array.array('B', [0, 0, 255] * width * height)
  
 # Fill with red the rectangle with origin at (10, 10) and width x height = 50 x 80 pixels
-for y in range(2, 2):  #50
-	for x in range(2, 2): #35
+for y in range(1, 2):  #50
+	for x in range(1, 2): #35
 		index = 3 * (y * width + x)
 		image[index] = 255           # red channel
 		image[index + 1] = 0         # green channel

@@ -102,6 +102,8 @@ int main()
       }
     }
   }
+  //eig kun je onderbreken vanaf een rij/kolom tegenkomt na kolom/rij in range dat niet meer in range zit
+  //want dan zit je voorbij object
 
   // als in 0e rij of 0e kolom 1 staat dan die index meenemen in gemdidelde index voor coordinaten
   double meanheight = 0;

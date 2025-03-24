@@ -11,7 +11,7 @@ image = array.array('B', [0, 0, 255] * width * height)
  
 # Fill with red the rectangle with origin at (10, 10) and width x height = 50 x 80 pixels
 for y in range(2, 3):  #50
-	for x in range(3,  3): #35
+	for x in range(2,  3): #35
 		index = 3 * (y * width + x)
 		image[index] = 255           # red channel
 		image[index + 1] = 0         # green channel

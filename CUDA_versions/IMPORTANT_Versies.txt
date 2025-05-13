@@ -1,0 +1,14 @@
+Overzicht van de versie namen en de specificaties van die versie
+OT = object trajectory
+Eerste versie voor versies
+
+
+v0:
+    - Basisimplementatie in CUDA
+    - kolommen en rijen doorlopen gebeurt in parallel
+    - bepalen midden object gebeurt op CPU
+
+v1: dubbele reductie
+    - analoog als v0
+    - bepalen maximale en minimale index waar pixels van object in voorkomen op GPU via min-max-reductie
+

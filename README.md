@@ -1,4 +1,4 @@
-# Project Geavanceerde Computerarchitectuur: CUDA object trajectory
+# Project Advanced Computerarchitecture: CUDA object trajectory
 
 In this project, we chose to track the path of an object in a video. We started with a basic implementation in Python and C++, after which we switched to CUDA to perform operations on the GPU. Finally, we applied several techniques (e.g., double reduction) and compared them with one another.
 

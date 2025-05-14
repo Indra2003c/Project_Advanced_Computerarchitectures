@@ -1,0 +1,30 @@
+Total kernel execution time: 101.731 ms
+Average kernel time per frame: 0.67821 ms
+______________________________________________________
+Total kernel execution time: 91.8131 ms
+Average kernel time per frame: 0.612087 ms
+______________________________________________________
+Total kernel execution time: 88.7382 ms
+Average kernel time per frame: 0.591588 ms
+______________________________________________________
+Total kernel execution time: 88.278 ms
+Average kernel time per frame: 0.58852 ms
+______________________________________________________
+Total kernel execution time: 86.7261 ms
+Average kernel time per frame: 0.578174 ms
+______________________________________________________
+Total kernel execution time: 101.935 ms
+Average kernel time per frame: 0.679566 ms
+______________________________________________________
+Total kernel execution time: 80.0923 ms
+Average kernel time per frame: 0.533949 ms
+______________________________________________________
+Total kernel execution time: 89.4961 ms
+Average kernel time per frame: 0.59664 ms
+______________________________________________________
+Total kernel execution time: 88.0341 ms
+Average kernel time per frame: 0.586894 ms
+______________________________________________________
+Total kernel execution time: 80.1706 ms
+Average kernel time per frame: 0.534471 ms
+______________________________________________________

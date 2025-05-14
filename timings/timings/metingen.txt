@@ -1,0 +1,65 @@
+NOTE:
+1st number = total time --> 150 frames, full kernel run
+2nd number = average time per frame
+
+----------V0:----------
+1) Total kernel execution time: 1269.33 ms
+   Average kernel time per frame: 8.46221 ms
+2) Total kernel execution time: 1253.25 ms
+   Average kernel time per frame: 8.35502 ms
+3) Total kernel execution time: 1174.89 ms
+   Average kernel time per frame: 7.83257 ms
+4) Total kernel execution time: 1174.64 ms
+   Average kernel time per frame: 7.83091 ms
+5) Total kernel execution time: 1170.69 ms
+   Average kernel time per frame: 7.80458 ms
+----------V2:----------
+1) Total kernel execution time: 1269.33 ms
+   Average kernel time per frame: 8.46221 ms
+2) Total kernel execution time: 1253.25 ms
+   Average kernel time per frame: 8.35502 ms
+3) Total kernel execution time: 1174.89 ms
+   Average kernel time per frame: 7.83257 ms
+4) Total kernel execution time: 1174.64 ms
+   Average kernel time per frame: 7.83091 ms
+5) Total kernel execution time: 1170.69 ms
+   Average kernel time per frame: 7.80458 ms
+----------V3:----------
+1) Total kernel execution time: 83.2986 ms
+   Average kernel time per frame: 0.555324 ms
+2) Total kernel execution time: 88.946 ms
+   Average kernel time per frame: 0.592973 ms
+3) Total kernel execution time: 86.1671 ms
+   Average kernel time per frame: 0.574447 ms
+4) Total kernel execution time: 98.4443 ms
+   Average kernel time per frame: 0.656295 ms
+5) Total kernel execution time: 75.1189 ms
+   Average kernel time per frame: 0.500793 ms
+----------V4:----------
+1) Total kernel execution time: 242.465 ms
+   Average kernel time per frame: 1.61643 ms
+2) Total kernel execution time: 241.104 ms
+   Average kernel time per frame: 1.60736 ms
+3) Total kernel execution time: 243.309 ms
+   Average kernel time per frame: 1.62206 ms
+4) Total kernel execution time: 290.08 ms
+   Average kernel time per frame: 1.93387 ms
+5) Total kernel execution time: 229.427 ms
+   Average kernel time per frame: 1.52951 ms
+----------V5 -> verkeerd aantal blocks: zie file times_v5:----------
+1) Total kernel execution time: 106.651 ms
+Average kernel time per frame: 0.711006 ms
+2) Total kernel execution time: 107.31 ms
+Average kernel time per frame: 0.715401 ms
+3) Total kernel execution time: 104.771 ms
+Average kernel time per frame: 0.698473 ms
+4) Total kernel execution time: 110.778 ms
+Average kernel time per frame: 0.738517 ms
+5) Total kernel execution time: 105.26 ms
+Average kernel time per frame: 0.701732 ms
+----------V6:----------
+1) Time: 1531 milliseconds.
+2) Time: 1556 milliseconds.
+3) Time: 1566 milliseconds.
+4) Time: 1570 milliseconds.
+5) Time: 1557 milliseconds.
